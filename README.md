@@ -27,6 +27,6 @@ Nothing to note as of writing this file. Still acquiring the know-how to spot bu
 
 ## License
 
-
+MIT
 
 Copyright (c) 2021 Zach Wilson
